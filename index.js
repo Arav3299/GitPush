@@ -5,6 +5,7 @@ var data = [
     { name: "Moen ali", country: "England" },
     { name: "Maxwell", country: "Australia" },
     { name: "Rohit sharma", country: "India" },
+    { name: "Mohit sharma", country: "India" },
     { name: "Arav", country: "India" }
 
 ];
